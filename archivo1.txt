@@ -1,4 +1,3 @@
-Nuevo documento
 Nombre: Johannys
 Apellido: Gutiérrez
 Asignatura: Electiva Disciplinar II - Backend
